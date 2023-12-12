@@ -27,6 +27,7 @@ Apple Developer Academy 에서 진행한 Team 2HoSun 의 프로젝트입니다.
 | <img width="120" alt="pin" src="https://github.com/migusdn/Wote/assets/44918187/e4d9b3e1-5076-4f1e-8e56-e892ea235c12"> | <img width="120" alt="CJ" src="https://github.com/DeveloperAcademy-POSTECH/MC2-Team8-Ssok/assets/54494793/d4e85bff-844f-4282-a399-f028a1702a92"> |
 |                                                         UI/UX                                                          |                                                                                                                                                  |
 </div>
+
 ## Repositories
 
 - [Backend](https://github.com/DeveloperAcademy-POSTECH/MacC-Team8-2HoSun-Server)
