@@ -20,7 +20,16 @@
   
 </div>
 
-### 💻 Stack
+### 💻 Backend Stack
+- SpringBoot
+- JPA
+- Quartz
+- QueryDSL
+- Push Notification Server
+- REST API
+- OAuth2
+
+### 💻 Frontend Stack
 - SwiftUI
 - UIKit
 - Combine
