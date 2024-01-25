@@ -43,7 +43,7 @@
 - UserNotifications
 - SpriteKit
 
-### 🖥️ Server Repository
+### 🖥️ Repository
 [Frontend](https://github.com/DeveloperAcademy-POSTECH/MacC-Team8-2HoSun)
 [Backend](https://github.com/DeveloperAcademy-POSTECH/MacC-Team8-2HoSun-Server)
 
